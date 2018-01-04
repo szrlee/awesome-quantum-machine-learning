@@ -1,10 +1,10 @@
-# Awesome Quantum Machine Learning (Chinese)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# 超酷的量子机器学习 Awesome Quantum Machine Learning[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
 ## 前言
 这个学期修了一门量子计算的课程，对量子计算产生挺大的兴趣，
 故希望对这方面研究做进一步的学习，特别是和机器学习、深度学习、人工智能方面的结合。
-很幸运发现了[量子机器学习列表]
-(https://github.com/krishnakumarsekar/awesome-quantum-machine-learning.git)
+很幸运发现了
+[量子机器学习列表](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning.git)
 我就想对它先做一些翻译，
 目的一方面是希望自己在翻译的过程进一步学习量子信息和量子机器学习，
 另一方面也是想让更多的中文读者了解量子机器学习，
@@ -12,7 +12,6 @@
 未来有更多相关的前沿研究，我也会整理更新！
 
 在本列表中，我们收集了一些很棒的量子机器学习算法、学习材料、研究文献和软件。
-[//]: # (A curated list of awesome quantum machine learning algorithms,study materials,libraries and software (by language).)
 
 [![Main Architecture](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/Quantum%20Machine%20complete%20Architecture.png)](https://arxiv.org/pdf/1611.09347.pdf)
 
