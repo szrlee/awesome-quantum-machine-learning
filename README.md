@@ -1,23 +1,35 @@
-# Awesome Quantum Machine Learning [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# Awesome Quantum Machine Learning (Chinese)[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-A curated list of awesome quantum machine learning algorithms,study materials,libraries and software (by language).
+## 前言
+这个学期修了一门量子计算的课程，对量子计算产生挺大的兴趣，
+故希望对这方面研究做进一步的学习，特别是和机器学习、深度学习、人工智能方面的结合。
+很幸运发现了[量子机器学习列表]
+(https://github.com/krishnakumarsekar/awesome-quantum-machine-learning.git)
+我就想对它先做一些翻译，
+目的一方面是希望自己在翻译的过程进一步学习量子信息和量子机器学习，
+另一方面也是想让更多的中文读者了解量子机器学习，
+如果能在了解的过程中对其产生兴趣的话就是最吼的了，
+未来有更多相关的前沿研究，我也会整理更新！
+
+在本列表中，我们收集了一些很棒的量子机器学习算法、学习材料、研究文献和软件。
+[//]: # (A curated list of awesome quantum machine learning algorithms,study materials,libraries and software (by language).)
 
 [![Main Architecture](https://github.com/krishnakumarsekar/awesome-quantum-machine-learning/blob/master/Quantum%20Machine%20complete%20Architecture.png)](https://arxiv.org/pdf/1611.09347.pdf)
 
-## Table of Contents
+## 目录
 
 <!-- MarkdownTOC depth=4 -->
 
-- [INTRODUCTION](#introduction)
-    - [Why Quantum Machine Learning?](#introduction-why-quantum-machine-learning)
-- [BASICS](#basics)
-    - [What is Quantum Mechanics?](#basics-what-quantum-mechanics)
-    - [What is Quantum Computing?](#basics-what-quantum-computing)
-    - [What is Topological Quantum Computing?](#basics-what-topological-quantum-computing)
-    - [Quantum Computing vs Classical Computing](#basics-quantum-classical-vs) 
-- [QUANTUM COMPUTING](#quantumcomputing)
-    - [Atom Structure](#quantumcomputing-atom-structure)
-    - [Photon wave](#quantumcomputing-photon-wave)
+- [导言](#introduction)
+    - [为什么需要量子机器学习？](#introduction-why-quantum-machine-learning)
+- [基础](#basics)
+    - [什么是量子力学？](#basics-what-quantum-mechanics)
+    - [什么是量子计算](#basics-what-quantum-computing)
+    - [什么是拓扑量子计算](#basics-what-topological-quantum-computing)
+    - [量子计算 vs 经典计算](#basics-quantum-classical-vs) 
+- [量子计算](#quantumcomputing)
+    - [原子结构](#quantumcomputing-atom-structure)
+    - [光子波](#quantumcomputing-photon-wave)
     - [Electron Fluctuation or spin](#quantumcomputing-elecfluctuation-spin)
     - [States](#quantumcomputing-states)
     - [SuperPosition](#quantumcomputing-superposition)
